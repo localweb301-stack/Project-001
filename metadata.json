@@ -1,0 +1,8 @@
+{
+  "name": "देशाचे लोक (Deshache Lok)",
+  "description": "एक अग्रगण्य आणि विश्वासार्ह मराठी वृत्तपत्र पोर्टल - देशाचे लोक (siteget.in). ताज्या बातम्या, महाराष्ट्र, राष्ट्रीय घडामोडी, क्रीडा आणि मनोरंजनाच्या बातम्या.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
